@@ -1,0 +1,12 @@
+{
+  "name": "Estrutura-LK",
+  "version": "1.0.0",
+  "description": "Estrutura LK",
+  "main": "index.js",
+  "author": "Luis",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^15.6.0",
+    "mochawesome": "^7.1.4"
+  }
+}
